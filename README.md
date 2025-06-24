@@ -2,8 +2,7 @@
 
 - Arch Linux user (albeit recently mostly using windows)
 - 3rd year Computer Science student at [Faculty of Mathematics
-and Information Science
-Warsaw University](https://ww2.mini.pw.edu.pl/) at [Technology Warsaw University of Technology](https://www.pw.edu.pl/)
+and Information Science](https://ww2.mini.pw.edu.pl/) at [Technology Warsaw University of Technology](https://www.pw.edu.pl/)
 - Feel free to contact me at <rdkgsk@gmail.com> or via discord <https://discord.com/users/523157645667074048>
 - Recently learning dart and go
 
