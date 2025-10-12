@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-- Arch Linux user (albeit recently mostly using windows)
-- 3rd year Computer Science student at [Faculty of Mathematics
+- 4th year Computer Science student at [Faculty of Mathematics
 and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
 - Free to contact me:
     - Email: <rdkgsk@gmail.com>
     - Discord: [rdkgsk](https://discord.com/users/523157645667074048)
-- Recently learning dart and go
+
+### Technologies I use / am learning:
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,graphql,js,ts,react,go,cs,cpp,rust" alt="">
 
 ---
 ## Featured Projects
