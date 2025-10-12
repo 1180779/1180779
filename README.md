@@ -12,4 +12,3 @@ and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of T
 ---
 ## Featured Projects
 - [PayUpPal](https://github.com/adamgracikowski/PayUpPal) simplify group expenses sharing
-- 
