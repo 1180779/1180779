@@ -20,3 +20,7 @@ Gaming on Windows, otherwise Linux
 
 ## Featured Projects
 - [PayUpPal](https://github.com/adamgracikowski/PayUpPal) simplify group expenses sharing
+
+## Currently working on:
+- [Cad](https://github.com/1180779/cad) Simple cad from scratch
+- Getting used to vim motions (IdeaVim)
