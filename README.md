@@ -1,29 +1,47 @@
 ## Hi there 👋
 
-> *"I connect with everything, but I'm not attached to anything."* — Alysa Liu ⛸️
+> To na czym skupiasz uwagę staje się twoją rzeczywistością.
 
-- 4th year Computer Science student at [Faculty of Mathematics
-and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
-- Feel free to contact me:
-    - Email: <rdkgsk@gmail.com>
+> I connect with everything, but I'm not attached to anything. — Alysa Liu ⛸️
+
+- Specializing in CAD/CAM Systems Design (4th year Computer Science student) at the [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
+- Feel free to contact me via:
+    - Email: [rdkgsk@gmail.com](mailto:rdkgsk@gmail.com)
     - Discord: [rdkgsk](https://discord.com/users/523157645667074048)
 
-### Technologies I use / am learning:
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,graphql,js,ts,react,go,cs,cpp,rust" alt="docker,postgresql,graphql,js,ts,react,go,cs,cpp,rust">
+### Technologies I use / am learning
 
-### IDE
-Currently I use jetbrains IDEs. 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,qt,cs,rust" alt="cpp,qt,cs,rust">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=idea,clion,rider,rustrover" alt="idea,clion,rider,rustrover">
+A bit rusty:
 
-### OS
-Gaming on Windows, otherwise Linux
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,graphql,js,ts,react,go" alt="docker,postgresql,graphql,js,ts,react,go">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,arch,windows" alt="arch,ubuntu,windows">
+### Tooling
+
+JetBrains IDEs, git, vim motions.
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=clion,rider,idea,rustrover,git,vim" alt="clion,rider,idea,rustrover,git,vim">
+
+### Other
+
+#### OS
+
+Gaming on Windows, otherwise Linux.
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,arch,windows" alt="ubuntu,arch,windows">
+
+#### AI
+
+[T3 Chat](https://t3.chat) user. Currently trying out [Claude](https://claude.ai/).
+
+---
 
 ## Featured Projects
-- [PayUpPal](https://github.com/adamgracikowski/PayUpPal) simplify group expenses sharing
 
-## Currently working on:
-- [Cad](https://github.com/1180779/cad) Simple cad from scratch
-- Getting used to vim motions (IdeaVim)
+- [PayUpPal](https://github.com/adamgracikowski/PayUpPal) — simplify group expense sharing
+
+## Currently working on
+
+- [Cad](https://github.com/1180779/cad) — CAD/CAM from scratch
+- Getting better at touch typing and vim motions (IdeaVim)
