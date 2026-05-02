@@ -39,9 +39,10 @@ Gaming on Windows, otherwise Linux.
 
 ## Featured Projects
 
-- [PayUpPal](https://github.com/adamgracikowski/PayUpPal) — simplify group expense sharing
+- [PayUpPal](https://github.com/adamgracikowski/PayUpPal) &ndash; simplify group expense sharing
+- [Cloths and Cubes](https://github.com/1180779/cloths-and-cubes) &ndash; simple physics engine from scratch
 
 ## Currently working on
 
-- [Cad](https://github.com/1180779/cad) — CAD/CAM from scratch
+- [Cad](https://github.com/1180779/cad) &ndash; CAD/CAM from scratch
 - Getting better at touch typing and vim motions (IdeaVim)
