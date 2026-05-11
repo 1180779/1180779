@@ -42,6 +42,7 @@ Gaming on Windows, otherwise Linux.
 
 - [PayUpPal](https://github.com/adamgracikowski/PayUpPal) &ndash; simplify group expense sharing
 - [Cloths and Cubes](https://github.com/1180779/cloths-and-cubes) &ndash; simple physics engine from scratch
+- [Spheres raycasting](https://github.com/1180779/SpheresRaycasting) &ndash; spheres raycasting in c++/CUDA/openGL
 
 ## Currently working on
 
