@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-> To na czym skupiasz uwagę staje się twoją rzeczywistością.
-
-> I connect with everything, but I'm not attached to anything. — Alysa Liu ⛸️
+> Silence the mind
 
 - Specializing in CAD/CAM Systems Design (4th year Computer Science student) at the [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
 - Linux enjoyer :penguin:
