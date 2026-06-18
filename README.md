@@ -8,7 +8,7 @@
     - Email: [rdkgsk@gmail.com](mailto:rdkgsk@gmail.com)
     - Discord: [rdkgsk](https://discord.com/users/523157645667074048)
 
-### Technologies I use / am learning
+### Technologies / Languages I use / am learning
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,qt,cs,rust" alt="cpp,qt,cs,rust">
 
@@ -18,9 +18,9 @@ A bit rusty:
 
 ### Tooling
 
-JetBrains IDEs, git, vim motions.
+JetBrains IDEs, git, vim motions, LaTeX (note taking / uni reports).
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=clion,rider,idea,rustrover,git,vim" alt="clion,rider,idea,rustrover,git,vim">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=clion,rider,idea,rustrover,git,vim,neovim,latex" alt="clion,rider,idea,rustrover,git,vim,neovim,latex">
 
 ### Other
 
@@ -45,4 +45,5 @@ Gaming on Windows, otherwise Linux.
 ## Currently working on
 
 - [Cad](https://github.com/1180779/cad) &ndash; CAD/CAM from scratch
-- Getting better at touch typing and vim motions (IdeaVim)
+- Getting better at touch typing and vim motions (IdeaVim) :keyboard:
+- Upping my LaTeX [neovim setup](https://github.com/1180779/nvchad-starter) :scroll:
