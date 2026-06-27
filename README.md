@@ -1,6 +1,37 @@
 ## Hi there 👋
 
-> Silence the mind
+<details>
+<summary>If God isn't watching, who is?</summary>
+</br>
+
+> I just wanted to ask you something.
+>
+> If God isn't watching, who is?
+>
+> _He he he he_
+>
+> You wanted to know, haven't you?
+> 
+> The answer might leave you hollow.
+> 
+> Every atrocity, every mishap, every injustice you pretend to care about — but you don't. We merely want attention from all we can't control.
+> 
+> If you controlled it all, would you want people to know?
+> 
+> Gods were not imagined to hear praise, but to deflect blame.
+> 
+> Who made all those choices resulting in death, destruction, addiction, and despair?
+>
+> Why you're lonely, out of shape, unfulfilled?
+> 
+> The answer is you.
+> 
+> _He he he he._
+>
+> Now, what are you gonna do about it?
+>
+> Goodbye God, I need to go now...
+</details>
 
 - Specializing in CAD/CAM Systems Design (4th year Computer Science student) at the [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
 - Linux enjoyer :penguin:
@@ -33,6 +64,9 @@ Gaming on Windows, otherwise Linux.
 #### AI
 
 [T3 Chat](https://t3.chat) user. Currently trying out [Claude](https://claude.ai/).
+
+#### Wanna see games I play? 
+Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
 
 ---
 
