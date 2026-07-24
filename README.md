@@ -36,7 +36,7 @@
 - Specializing in CAD/CAM Systems Design (4th year Computer Science student) at the [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
 - Linux enjoyer :penguin:
 - Feel free to contact me via:
-    - Email: [rdkgsk@gmail.com](mailto:rdkgsk@gmail.com)
+    - Email: [radoslaw.glasek@thundermail.com](mailto:radoslaw.glasek@thundermail.com)
     - Discord: [rdkgsk](https://discord.com/users/523157645667074048)
 
 ### Technologies / Languages I use / am learning
