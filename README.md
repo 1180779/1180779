@@ -41,11 +41,11 @@
 
 ### Technologies / Languages I use / am learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,qt,cs,rust" alt="cpp,qt,cs,rust">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,docker,js,ts,react,kotlin,spring,cpp,qt,cs" alt="postgresql,docker,js,ts,react,kotlin,spring,cpp,qt,cs">
 
 A bit rusty:
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,graphql,js,ts,react,go" alt="docker,postgresql,graphql,js,ts,react,go">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,graphql,go" alt="rust,graphql,go">
 
 ### Tooling
 
@@ -57,13 +57,13 @@ JetBrains IDEs, git, vim motions, LaTeX (note taking / uni reports).
 
 #### OS
 
-Gaming on Windows, otherwise Linux.
+Gaming on Windows, for personal stuff Linux, mac at work.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,arch,windows" alt="ubuntu,arch,windows">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,arch,windows,macos" alt="ubuntu,arch,windows,macos">
 
 #### AI
 
-[T3 Chat](https://t3.chat) user. Currently trying out [Claude](https://claude.ai/).
+ [Claude](https://claude.ai/) for cheap intelligence, [openrouter](https://openrouter.ai/) for experiments. 
 
 #### Wanna see games I play? 
 Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
@@ -80,4 +80,6 @@ Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
 
 - [Cad](https://github.com/1180779/cad) &ndash; CAD/CAM from scratch
 - Getting better at touch typing and vim motions (IdeaVim) :keyboard:
-- Upping my LaTeX [neovim setup](https://github.com/1180779/nvchad-starter) :scroll:
+
+## Other stuff
+- My LaTeX [neovim setup](https://github.com/1180779/nvchad-starter) :scroll:
