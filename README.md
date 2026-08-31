@@ -75,10 +75,11 @@ Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
 - [PayUpPal](https://github.com/adamgracikowski/PayUpPal) &ndash; simplify group expense sharing
 - [Cloths and Cubes](https://github.com/1180779/cloths-and-cubes) &ndash; simple physics engine from scratch
 - [Spheres raycasting](https://github.com/1180779/SpheresRaycasting) &ndash; spheres raycasting in c++/CUDA/openGL
+- [Cad](https://github.com/1180779/cad) &ndash; CAD/CAM from scratch
 
 ## Currently working on
 
-- [Cad](https://github.com/1180779/cad) &ndash; CAD/CAM from scratch
+- Getting hands on experience and jump starting my career at sumup
 - Getting better at touch typing and vim motions (IdeaVim) :keyboard:
 
 ## Other stuff
