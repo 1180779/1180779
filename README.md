@@ -63,7 +63,7 @@ Gaming on Windows, for personal stuff Linux, mac at work.
 
 #### AI
 
- [Claude](https://claude.ai/) for cheap intelligence, [openrouter](https://openrouter.ai/) for experiments. 
+ [Claude](https://claude.ai/) or [Codex](https://chatgpt.com/) for best value for money, [openrouter](https://openrouter.ai/) for less demanding stuff and experiments. 
 
 #### Wanna see games I play? 
 Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
@@ -81,6 +81,7 @@ Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
 
 - Getting hands on experience and jump starting my career at sumup
 - Getting better at touch typing and vim motions (IdeaVim) :keyboard:
+- Getting into custom keyboards? 🤔🤔🤔
 
 ## Other stuff
 - My LaTeX [neovim setup](https://github.com/1180779/nvchad-starter) :scroll:
