@@ -78,10 +78,8 @@ Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
 - [Spheres raycasting](https://github.com/1180779/SpheresRaycasting) &ndash; spheres raycasting in c++/CUDA/openGL
 
 ## Currently working on
-
-- Getting hands on experience and jump starting my career at sumup
+- Masters degree
 - Getting better at touch typing and vim motions (IdeaVim) :keyboard:
-- Getting into custom keyboards? 🤔🤔🤔
 
 ## Other stuff
 - My LaTeX [neovim setup](https://github.com/1180779/nvchad-starter) :scroll:
