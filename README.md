@@ -33,37 +33,57 @@
 > Goodbye God, I need to go now...
 </details>
 
-- Specializing in CAD/CAM Systems Design (4th year Computer Science student) at the [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
+- Specializing in CAD/CAM Systems Design (5th year Computer Science student) at the [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.pw.edu.pl/)
 - Linux enjoyer :penguin:
 - Feel free to contact me via:
-    - Email: [radoslaw.glasek@thundermail.com](mailto:radoslaw.glasek@thundermail.com)
+    - Email: [radoslaw.glasek@theworldlooksback.com](mailto:radoslaw.glasek@thundermail.com)
     - Discord: [rdkgsk](https://discord.com/users/523157645667074048)
 
 ### Technologies / Languages I use / am learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,docker,js,ts,react,kotlin,spring,cpp,qt,cs" alt="postgresql,docker,js,ts,react,kotlin,spring,cpp,qt,cs">
+<img height="48" src="./skill-icons/assets/cpp.svg" alt="cpp">
+<img height="48" src="./skill-icons/assets/qt-light.svg" alt="qt">
 
 A bit rusty:
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,graphql,go" alt="rust,graphql,go">
+<img height="48" src="./skill-icons/assets/postgresql-light.svg" alt="postgresql">
+<img height="48" src="./skill-icons/assets/docker.svg" alt="docker">
+<img height="48" src="./skill-icons/assets/javascript.svg" alt="javascript">
+<img height="48" src="./skill-icons/assets/typescript.svg" alt="typescript">
+<img height="48" src="./skill-icons/assets/react-light.svg" alt="react">
+<img height="48" src="./skill-icons/assets/kotlin-light.svg" alt="kotlin">
+<img height="48" src="./skill-icons/assets/spring-light.svg" alt="spring">
+<img height="48" src="./skill-icons/assets/cs.svg" alt="cs">
+<img height="48" src="./skill-icons/assets/rust-light.svg" alt="rust">
+<img height="48" src="./skill-icons/assets/graphql-light.svg" alt="graphql">
+<img height="48" src="./skill-icons/assets/golang.svg" alt="golang">
 
 ### Tooling
 
 JetBrains IDEs, git, vim motions, LaTeX (note taking / uni reports).
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=clion,rider,idea,rustrover,git,vim,neovim,latex" alt="clion,rider,idea,rustrover,git,vim,neovim,latex">
+<img height="48" src="./skill-icons/assets/clion-light.svg" alt="clion">
+<img height="48" src="./skill-icons/assets/rider-light.svg" alt="rider">
+<img height="48" src="./skill-icons/assets/idea-light.svg" alt="idea">
+<img height="48" src="./skill-icons/assets/rustrover-light.svg" alt="rustrover">
+<img height="48" src="./skill-icons/assets/git-light.svg" alt="git">
+<img height="48" src="./skill-icons/assets/vim-light.svg" alt="vim">
+<img height="48" src="./skill-icons/assets/neovim-light.svg" alt="neovim">
+<img height="48" src="./skill-icons/assets/latex-light.svg" alt="latex">
 
 ### Other
 
 #### OS
 
-Gaming on Windows, for personal stuff Linux, mac at work.
+Gaming on Windows, for personal stuff Linux. I have also previously worked on mac.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,arch,windows,macos" alt="ubuntu,arch,windows,macos">
+<img height="48" src="./skill-icons/assets/arch-light.svg" alt="arch">
+<img height="48" src="./skill-icons/assets/windows-light.svg" alt="windows">
+<img height="48" src="./skill-icons/assets/macos-light.svg" alt="macos">
 
 #### AI
 
- [Claude](https://claude.ai/) or [Codex](https://chatgpt.com/) for best value for money, [openrouter](https://openrouter.ai/) for less demanding stuff and experiments. 
+ [Claude](https://claude.ai/) or [Codex](https://chatgpt.com/) for best value for money, [openrouter](https://openrouter.ai/) for some of the stuff and experiments. 
 
 #### Wanna see games I play? 
 Checkout my [Steam profile](https://steamcommunity.com/id/rdkgsk/)
