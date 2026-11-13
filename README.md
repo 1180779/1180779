@@ -1,9 +1,14 @@
+## What's New
+As of November 2026
+* Now featuring a [LinkedIn profile](https://www.linkedin.com/in/radoslaw-glasek/?locale=en-US) ✨
+  <p>
+    <img height="48" src="./skill-icons/assets/linkedin.svg" alt="linkedin">
+  </p>
+
 ## Hi there 👋
 
 <details>
 <summary>If God isn't watching, who is?</summary>
-</br>
-
 > I just wanted to ask you something.
 >
 > If God isn't watching, who is?
